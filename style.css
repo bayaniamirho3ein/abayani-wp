@@ -1068,6 +1068,14 @@ ol li{
     border: 1px solid #e5e5e5;
     padding: 10px;
     margin-top: 10px;
+}
 
-
+#tags a{
+    font-size: 15px;
+    font-weight: 200;
+    background-color: #f50057;
+    color: #fff;
+}
+#tags a:hover{
+    color: #fff;
 }

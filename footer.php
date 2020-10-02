@@ -46,6 +46,8 @@
 
     $("#submit").addClass('btn  btn-lg  d-block w-100').attr("value","ارسال دیدگاه");
     $(" div.reply > a").html('پاسخ دهید').addClass("btn  btn-sm");
+    $("#tags > a").addClass("badge ");
+
 
   
     $("div.comment-author.vcard > img").attr("width","74").attr("height","74").addClass("rounded-circle");

@@ -54,8 +54,8 @@
       
     </div>
     <div class=" d-md-none " id="mob-menu">
-                        <form action="" class="searchly-mob">
-                        <input class=" " type="search" placeholder="جستوجو...">
+                        <form method="get" action="<?php echo get_home_url(); ?>" class="searchly-mob">
+                        <input name="s" class=" " type="search" placeholder="جستوجو...">
                         <button class=" search-submit " id="search-btn">
                             <i class="fal fa-search text-muted "></i>
                         </button>

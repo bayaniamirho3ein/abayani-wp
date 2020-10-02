@@ -52,7 +52,7 @@
 
    <?php  } ?>
    <?php else : ?>
-    <span>موردی یافت نشد!</span>
+    <span class="p-3">موردی یافت نشد!</span>
     <?php endif; ?>
 
     </div>
@@ -112,7 +112,7 @@
                         
                     </div>
                     <div class="bg-white  border mb-4 search-side" id="category">
-                        <h5 class="widget-title">برچسب ها</h5>
+                        <h5 class="widget-title ">برچسب ها</h5>
                        
                         
                     </div>

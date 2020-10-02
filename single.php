@@ -184,8 +184,9 @@
                         </ul>
                         
                     </div>
-                    <div class="bg-white  border mb-4 search-side" id="category">
+                    <div class="bg-white  border mb-4 search-side" id="tags">
                         <h5 class="widget-title">برچسب ها</h5>
+                        <?php echo the_tags(); ?>
                        
                         
                     </div>
