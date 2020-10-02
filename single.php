@@ -145,9 +145,9 @@
                     <div class="bg-white  border mb-4 search-side d-f" id="side-search">
                         <div  id=search-mob>
                         <h5 class="widget-title">جستوجو</h5>
-                        <form action="" class="searchly">
+                        <form  method="get" action="<?php echo get_home_url(); ?>" class="searchly">
                         <span class="screen-reader-text">جستجو برای:</span>
-                        <input class="w-100 " type="search" placeholder="جستوجو...">
+                        <input name="s" class="w-100 " type="search" placeholder="جستوجو...">
                         <button class=" search-submit " id="search-btn">
                             <i class="fal fa-search text-muted "></i>
                         </button>
