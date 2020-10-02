@@ -1,17 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 Theme Name : ArrayOne 
 Author : Amirhossein Bayani
@@ -155,6 +142,8 @@ ul{
     
     .search_icon{
     height: 40px;
+    background-color: #fff;
+    border:0;
     
     width: 40px;
     float: right;
@@ -838,7 +827,7 @@ a[rel="author"]{
 #post-content h2{
     margin-bottom: 20px;
 }
-#post-content img,pre,figure {
+#post-content pre,figure {
     margin: 20px auto 20px auto;
  
 }
@@ -1070,4 +1059,7 @@ a.comment-reply-link {
 div.comment-meta.commentmetadata > a:nth-child(1){
     color: #212529;
 }
- 
+#search-title{
+    font-size: 38px;
+    font-weight: 500;
+}

@@ -10,8 +10,10 @@
     <div class="container h-100">
       <div class="d-flex justify-content-center h-100">
         <div class="searchbar">
-          <input class="search_input" type="text" name="" placeholder="جستوجو کنید...">
-          <a href="#" class="search_icon" action="search.php"><i class="fa fa-search"></i></a>
+        <form method="get" action="">
+          <input class="search_input" type="text" name="s" placeholder="جستوجو کنید...">
+          <button href="#" class="search_icon" ><i class="fa fa-search"></i></button>
+          </form>
         </div>
       </div>
     </div>
