@@ -45,6 +45,7 @@ function add_post_view_count_column( $columns ) {
 add_filter( 'manage_posts_columns', 'add_post_view_count_column' );
 
 
+
 function set_post_view_count_column( $column_name, $post_ID ) {
   if ( $column_name == 'post_view_count' ) {
       $count = get_post_meta( $post_ID, 'post_view_count', true );

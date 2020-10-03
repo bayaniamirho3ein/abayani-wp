@@ -8,7 +8,7 @@
     the_post(); ?>
 
         <span class="" id="post-path">
-            <span><a  class="" href="http://localhost/wp">صفحه اصلی</a></span>
+            <span><a  class="" href="<?php bloginfo('home') ?>">صفحه اصلی</a></span>
             <i class="fa fa-angle-left edit"></i>
             <span class=""><a  href="http://"><?php echo get_the_category_list(','); ?> </a></span>
             <i class="fa fa-angle-left edit"></i>

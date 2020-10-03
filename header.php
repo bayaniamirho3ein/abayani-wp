@@ -28,11 +28,11 @@
      
       <div class=" py-3" id="social">
         <div>
-          <a href="#" class="text-dark px-2">
-            <i class="fab fa-github "></i>
+          <a href="https://github.com/zdfdownload" class="text-dark px-2">
+            <span class="fab fa-github "></i>
           </a>
-          <a href="#" class=" px-2">
-            <i class="fab fa-linkedin blue_linkedin "></i>
+          <a href="https://www.linkedin.com/in/amirhossein-bayani-649ab6195/" class=" px-2">
+            <span class="fab fa-linkedin blue_linkedin "></i>
           </a>
           
 
@@ -71,10 +71,10 @@
 </div>
 <div class=" " id="social-mob">
         <div>
-          <a href="#" class="text-white px-2">
+          <a href="رتتاات" class="text-white px-2">
             <i class="fab fa-github "></i>
           </a>
-          <a href="#" class=" px-2">
+          <a href="https://www.linkedin.com/in/amirhossein-bayani-649ab6195/" class=" px-2">
             <i class="fab fa-linkedin blue_linkedin "></i>
           </a>
           

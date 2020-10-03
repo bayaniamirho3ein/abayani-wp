@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 /*
 Theme Name : ArrayOne 
 Author : Amirhossein Bayani
@@ -93,7 +99,7 @@ ul{
 #social{
     font-size: 25px;
 }
-#social  a  i{
+#social  a  span{
     vertical-align: bottom;
 }
 ul{
